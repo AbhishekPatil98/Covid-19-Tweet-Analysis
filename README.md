@@ -1,5 +1,7 @@
 # Covid-19 Tweet Analysis
 
+![covidd](https://user-images.githubusercontent.com/109813094/213919400-65a6815b-5ffd-45f2-a8e4-1662b3c25ed8.jpg)
+
 
 # Problem Statement
 
